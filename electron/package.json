@@ -1,0 +1,11 @@
+{
+  "name": "nexor-electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "dependencies": {
+    "electron": "^26.0.0"
+  }
+}
